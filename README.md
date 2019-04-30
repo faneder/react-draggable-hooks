@@ -1,5 +1,7 @@
 # React Simple Draggable using Hooks with Touch Friendly
 
+[Demo](https://faneder.github.io/react-draggable-hooks/)
+
 It provides an easy way to reuse the dragging.
 
 ```
@@ -14,7 +16,6 @@ const DraggableBox = () => {
     Draggable
   </div>;
 };
-
 ```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
