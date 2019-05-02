@@ -1,4 +1,4 @@
-# React Simple Draggable using Hooks with Touch Friendly
+# React Simple Draggable with Hooks with Touch Friendly
 
 [Demo](https://faneder.github.io/react-draggable-hooks/)
 
